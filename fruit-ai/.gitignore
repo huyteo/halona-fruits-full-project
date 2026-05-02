@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+venv_wsl/
+
+# Dataset (KHÔNG PUSH)
+dataset/
+dataset_combined/
+dataset_fruits/
+real_images/
+train/
+validation/
+test/
+
+# Model (KHÔNG PUSH)
+*.h5
+*.pt
+model/
+
+# System files
+.env
+*.log
+.DS_Store
